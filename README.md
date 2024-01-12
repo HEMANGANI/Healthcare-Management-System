@@ -21,7 +21,6 @@ A comprehensive Patient Tracker application designed to streamline the managemen
 4. Sudharshan Govindan - sudharshan1234
 
 ## Links:
-## GitHub Repository: Patient Tracker Repo
 ## Project Demo: Patient Tracker App
 
 ## Overview
@@ -125,7 +124,7 @@ Clone the Repository
 Open your terminal.
 
 Clone the repository using Git:
-git clone https://github.com/sudharshan1234/patient-tracker.git
+git clone https://github.com/HEMANGANI/Healthcare-Management-System.git
 
 Running the Application Locally
 Starting the Backend Server
